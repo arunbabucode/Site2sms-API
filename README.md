@@ -1,4 +1,4 @@
-Site2sms-API
+Site2sms API
 ============
 
 With Site2SMS API, You can send Unlimited free SMS through Site2sms. You can Implement Site2sms API in your apps/websites.NO ads ever!! Note : This service only supports sending msg in India. This is an unofficial site2sms api.Please don't overload Site2sms Server and Please don't Misuse this service. Hope you Understands :)
@@ -22,21 +22,4 @@ Parameters:
 NOTE: You need to be a Mashape user to consume this API and Need Mashape API key. Get your FREE key from Here.
 https://www.mashape.com/sphirelabs/site2sms-23/
 
-
-<div id="mashape-docs-container-341438232"></div>
-<script type="text/javascript">
-  (function (window) {
-    if (!window._MashapeConfig) window._MashapeConfig = [];
-    window._MashapeConfig.push({
-      selector: '#mashape-docs-container-341438232',
-      user: 'sphirelabs',
-      api: 'Site2SMS'
-    });
-    var script = document.createElement('script');
-    script.type = 'text/javascript';
-    script.src = '//mashape.github.io/embed/docs.js';
-    script.async = true;
-    var entry = document.getElementsByTagName('script')[0];
-    entry.parentNode.insertBefore(script, entry);
-  }(window));
-</script>
+Keywords -  site2sms, site2sms api, site2sms spam, site2sms login, site2sms app, site2sms free call, site2sms registration, site2sms android app, site2sms apk, site2sms hindi,  site2sms api, site2sms app, site2sms android app, site2sms apk, site2sms api php, site2sms api code
