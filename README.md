@@ -26,4 +26,5 @@ Disclaimer:
 ---------------------
 This script is only for personal or educational use. Any commercial use is forbidden. Author takes no responsibility whatever if this script is misused in any way. Also, there is no warranty of any kind with this script.
 
+---------------------
 Keywords -  site2sms, site2sms api, site2sms spam, site2sms login, site2sms app, site2sms free call, site2sms registration, site2sms android app, site2sms apk, site2sms hindi,  site2sms api, site2sms app, site2sms android app, site2sms apk, site2sms api php, site2sms api code
